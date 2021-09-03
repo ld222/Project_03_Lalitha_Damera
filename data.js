@@ -1,20 +1,17 @@
 module.exports.users = [
     {
-        'id': 0,
         'firstname': "James",
         'lastname': "Bond",
         'email': "james.bond@gmail.com",
         'password': "b6b7fb4cad4bc020f76e16889a8e9065cb708d0f8c304a8a3db609b644da9536"  
     },
     {
-        'id': 1,
         'firstname': "Tony",
         'lastname': "Stark",
         'email': "starkrulz@gmail.com",
         'password': "a836ebba36776b21dd0f5cdca497bff65c5bdfc8411cfbfe0111f27bde1c1894"  
     },
     {
-        'id': 2,
         'firstname': "Ali",
         'lastname': "G",
         'email': "nameisnotborat@gmail.com",
